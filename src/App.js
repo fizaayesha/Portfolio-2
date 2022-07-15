@@ -64,8 +64,8 @@ function App() {
           <Route path="/projects" element={<Project />} />
           <Route path="/blogs" element={<Blogs />} />
           <Route path="/contact" element={<Contact />} />
-          <Route path="/women-in-tech" element={<WomeninTech />} />
-          <Route path="/css-effects" element={<CssEffects />} />
+          <Route path="/blogs/women-in-tech" element={<WomeninTech />} />
+          <Route path="/blogs/css-effects" element={<CssEffects />} />
         </Switching>
       </MainContentStyles>
     </div>

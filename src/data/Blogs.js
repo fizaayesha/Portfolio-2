@@ -6,7 +6,7 @@ const blogs = [
     date: "01",
     month: "April",
     image: techwomen,
-    link: "/women-in-tech",
+    link: "/blogs/women-in-tech",
   },
   // {
   //   id: 2,
